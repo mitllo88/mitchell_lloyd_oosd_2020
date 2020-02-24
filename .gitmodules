@@ -1,0 +1,12 @@
+[submodule "oosd-course-material"]
+    path = oosd-course-material
+    url = https://github.com/otago-polytechnic-bit-courses/oosd-course-materials.git
+[submodule "oosd-practicals-Grayson-Orr"]
+    path = oosd-practicals-Grayson-Orr
+    url = https://github.com/otago-polytechnic-bit-courses/oosd-practicals-mitllo88.git
+[submodule "oosd-course-materials"]
+	path = oosd-course-materials
+	url = https://github.com/otago-polytechnic-bit-courses/oosd-course-materials.git
+[submodule "oosd-practicals-mitllo88"]
+	path = oosd-practicals-mitllo88
+	url = https://github.com/otago-polytechnic-bit-courses/oosd-practicals-mitllo88.git
